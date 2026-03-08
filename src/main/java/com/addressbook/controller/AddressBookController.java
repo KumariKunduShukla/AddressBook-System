@@ -24,7 +24,7 @@ public class AddressBookController {
     public AddressBookController() {
 
         addressBook.addContact(
-            new Person("Vikash","Prajapati","Bhopal","Bhopal","MP","462001","9999999999","vikash@gmail.com")
+            new Person("Kundu","Shukla","Bhopal","Bhopal","MP","462001","9999999999","kundu@gmail.com")
         );
 
         addressBook.addContact(
